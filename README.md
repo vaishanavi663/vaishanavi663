@@ -32,7 +32,7 @@ const vaishanavi = {
   focus      : ["AI/ML Apps", "Full-Stack Web Dev", "Social Impact Tech"],
   achievement: "Top 30 / 400+ teams @ Kleos 3.0 Hackathon",
   ncc        : "Lance Corporal — leading 15+ cadets",
-  cgpa       : "9.06 / 10",
+  cgpa       : "9.33 / 10",
   learning   : ["React", "TypeScript", "Python", "AI APIs"],
   ask_me_about: "building apps that actually solve problems",
   mission    : "Tech for people who need it most",
