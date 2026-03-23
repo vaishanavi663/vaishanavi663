@@ -164,7 +164,7 @@ AI-powered campus operations tool for managing student workflows, announcements,
 ```
 🥇  Top 30 out of 400+ teams — Kleos 3.0 Hackathon
 🪖  Promoted: Cadet → Lance Corporal (NCC) | Leading 15+ cadets
-🎓  CGPA: 9.06/10 @ UMIT, SNDT Women's University
+🎓  CGPA: 9.33/10 @ UMIT, SNDT Women's University
 💻  Active participant in coding competitions & innovation challenges
 🌍  Built tech tackling healthcare, agriculture, gender equality & mental wellness
 ```
